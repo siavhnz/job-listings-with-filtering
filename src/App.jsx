@@ -1,5 +1,7 @@
+import Jobs from "./components/jobs/Jobs";
+
 function App() {
-  return <>Job listings with filtering</>;
+  return <Jobs />;
 }
 
 export default App;
