@@ -1,7 +1,11 @@
-import jobs from "../../data.json";
+import { useContext } from "react";
+import { JobsContext } from "../../store/jobs-context";
 import Item from "./Item";
 
 const List = () => {
+  const jobsCtx = useContext(JobsContext);
+  const jobs = jobsCtx.filteredList;
+  console.log(jobs);
   return (
     <div className="flex flex-col gap-y-10">
       {jobs.map((job) => {
