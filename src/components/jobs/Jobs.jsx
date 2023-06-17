@@ -5,7 +5,7 @@ import List from "./List";
 const Jobs = () => {
   return (
     <div>
-      <div className="bg-mobile-pattern mb-14 bg-cover h-[9.75rem]" />
+      <div className="bg-mobile-pattern lg:bg-desktop-pattern lg:bg-desaturated-dark-cyan mb-14 lg:mb-[4.75rem] bg-cover h-[9.75rem]" />
       <FilterBox />
       <List />
     </div>

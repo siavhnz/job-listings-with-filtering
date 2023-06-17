@@ -16,6 +16,9 @@ export default {
         "mobile-pattern": "url('./assets/images/bg-header-mobile.svg')",
         "desktop-pattern": "url('./assets/images/bg-header-desktop.svg')",
       },
+      screens: {
+        1110: "1110px",
+      },
     },
   },
   plugins: [],

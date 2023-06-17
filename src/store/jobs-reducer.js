@@ -24,8 +24,6 @@ export const jobsReducer = (state, action) => {
           ...item.tools,
         ];
 
-        console.log(filters, allFilterableValues);
-
         // if filters exist in an item return that item
         return filters.every((ai) => allFilterableValues.includes(ai));
       });

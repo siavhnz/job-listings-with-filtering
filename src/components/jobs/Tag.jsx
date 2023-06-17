@@ -8,7 +8,7 @@ const Tag = ({ title }) => {
     <button
       onClick={() => jobsCtx.addToFilter(title)}
       aria-label={`filter by ${title}`}
-      className="flex items-center text-desaturated-dark-cyan bg-desaturated-dark-cyan bg-opacity-10 py-1 px-3 rounded-sm h-8"
+      className="flex items-center text-desaturated-dark-cyan bg-desaturated-dark-cyan bg-opacity-10 transition-all duration-700 hover:text-white hover:bg-opacity-100 py-1 px-3 rounded-sm h-8"
     >
       <span className="h-5">{title}</span>
     </button>

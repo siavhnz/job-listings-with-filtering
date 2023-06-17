@@ -45,6 +45,8 @@ Users should be able to:
 
 ### Useful resources
 
+- [Check if an array contains any element of another array](https://stackoverflow.com/a/57026309)
+
 ## Author
 
 ## Acknowledgments
