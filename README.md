@@ -9,9 +9,8 @@ This is a solution to the [Job listings with filtering challenge on Frontend Men
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
+  - [Work time](#work-time)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -28,20 +27,32 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/job-listings-with-filtering-i8sZPjL7qz)
+
+- Live Site: [cloudflare](https://job-listings-with-filtering-dnc.pages.dev/)
 
 ## My process
 
+- 1.Download assets, Install Vite & TailwindCss, Initialize git, README.md, Prepare project, ...
+- 2.Create components
+  - 1.Identify component
+  - 2.Create components + style + functionality if exists
+  - 3.go to step 1 (Identify component)
+- 3.Prepare and Publish(Write README.md, Push to github, Make it live on Cloudflare, Publish to frontendmentor, ...)
+
+### Work Time
+
+- [My Clockify Report](https://app.clockify.me/shared/648d9b05e2ea6d79e25312ce)
+
 ### Built with
 
-### What I learned
-
-### Continued development
+- [React](https://react.dev/)
+- [TailwindCss](https://tailwindcss.com/)
+- [Framer Motion](https://framer.com/motion)
 
 ### Useful resources
 
@@ -49,4 +60,14 @@ Users should be able to:
 
 ## Author
 
+- Frontend Mentor - [@siavhnz](https://www.frontendmentor.io/profile/siavhnz)
+
+- github - [@siavhnz](https://www.github.com/siavhnz)
+
 ## Acknowledgments
+
+Thanks To
+
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+
+[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension
